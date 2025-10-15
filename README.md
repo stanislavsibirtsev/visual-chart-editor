@@ -64,7 +64,7 @@ visual-chart-editor/
 1. **Клонируйте репозиторий**:
 ```bash
 git clone https://github.com/stanislavsibirtsev/visual-chart-editor.git
-cd diagram_editor
+cd visual-chart-editor
 ```
 
 2. **Создайте и активируйте виртуальное окружение**:
@@ -150,3 +150,4 @@ python main.py
 ## Лицензия
 
 Проект распространяется под лицензией MIT.
+
